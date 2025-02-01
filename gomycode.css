@@ -1,0 +1,117 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: lightcyan;
+} 
+header{
+ background-color: aquamarine;
+ display: flex;
+ justify-content: space-between;
+
+}
+
+header a{
+    text-decoration: none;
+    padding-inline: 20px;
+    
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    font-size: 150%;
+    color: brown;
+    
+}
+
+nav{
+    display: flex;
+}
+
+
+    
+
+.logo img{
+    width: 100px;
+    display: block;
+    margin-right: auto;
+
+
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+    color: blue;
+}
+
+p{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-size: 200%;
+}
+
+
+
+.image{
+    text-align: center;
+    
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 300%;
+    color: blue;
+}
+
+.photo2{
+
+   text-align: center;
+
+}
+
+.photo2 img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%; 
+}
+
+h3{
+ text-align: center;
+ font-size: 300%;
+ color: blue;
+}
+
+#image3{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h4{
+    font-size: 300%;
+    text-align: center;
+    color: blue;
+}
+
+table{
+    color: blue;
+    
+}
+
+label{
+    color: blue;
+}
+
+a{
+    border: 2px solid white
+}
+
+
+
+
